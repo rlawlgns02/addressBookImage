@@ -18,8 +18,7 @@
 2. 서버는 이미지 파일을 `addrBook/static/images` 디렉토리에 저장합니다.
    저장되는 이미지의 이름은 `이름.파일확장자`로 저장됩니다.
 
-3. `addbook.txt`
-저장되는 이미지의 이름은 `이름.파일확장자`로 저장됩니다.
+3. `addbook.txt`에 *이름, 전화번호, 생년월일, 이미지*로 저장 됩니다.
 
 ## 실행 결과
-![Image](https://github.com/user-attachments/assets/189ffddc-b902-4160-8000-d187feb6dde5)
+![Image](https://github.com/user-attachments/assets/76a95a3c-ee4b-44ce-8cd7-9a18798a0c00)
