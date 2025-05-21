@@ -20,5 +20,8 @@
 
 3. `addbook.txt`에 *이름, 전화번호, 생년월일, 이미지*로 저장 됩니다.
 
+
+만약 사진이 없다면 `웹캠/파일 전환` 버튼을 이용해서 연결되어있는 웹캠을 통해서 즉시 촬영이 가능합니다.
+
 ## 실행 결과
-![Image](https://github.com/user-attachments/assets/76a95a3c-ee4b-44ce-8cd7-9a18798a0c00)
+![Image](https://github.com/user-attachments/assets/b184767c-624b-4ae3-afb5-7c45f40bb004)
