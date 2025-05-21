@@ -29,6 +29,12 @@
                 <label for="photo">프로필 사진 (선택사항)</label>
                 <div class="file-input-wrapper">
                     <input type="file" id="photo" name="pyphoto" accept="image/*">
+                    <div class="webcam-container">
+                        <video id="webcam" autoplay playsinline></video>
+                        <canvas id="canvas" style="display:none;"></canvas>
+                        <button type="button" id="capture-btn">사진 촬영</button>
+                        <button type="button" id="switch-input-btn">웹캠/파일 전환</button>
+                    </div>
                     <div class="file-preview"></div>
                 </div>
             </div>
